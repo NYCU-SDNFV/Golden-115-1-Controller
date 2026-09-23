@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "channel": "115-1",
+  "version": "0.1.0",
+  "tag": "115-1-v0.1.0",
+  "template": "NYCU-SDNFV/Golden-115-1-Controller",
+  "source_sha": "dd2087028d935a6bba328a99157f10daf3248260",
+  "minimum_version": "0.1.0"
+}
